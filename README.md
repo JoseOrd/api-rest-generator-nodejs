@@ -33,4 +33,4 @@ Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en 
 Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
 
 # Autor
-Jose Ordoñez[https://github.com/JoseOrd/]
+[Jose Ordoñez](https://github.com/JoseOrd/)
